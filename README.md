@@ -2,6 +2,10 @@
 
 Bienvenue sur le projet **Price Houses America**, une analyse complète du marché immobilier aux États-Unis réalisée sous Power BI.
 
+## 📥 Télécharger le fichier Power BI
+
+👉 [Clique ici pour télécharger le fichier `.pbix`](./Project_price_houses.pbix)
+
 ## 🎯 Objectif
 
 Dans le cadre de ma formation en analyse de données, j'ai mené un projet en collaboration avec une agence immobilière fictive (*House'gency*). L’objectif était de concevoir un **dashboard interactif** permettant de :
@@ -22,9 +26,11 @@ Le tableau de bord Power BI contient :
 
 Les données proviennent de la **United States Census Bureau** et couvrent la période **2000 à 2021**.
 
-## 📥 Télécharger le fichier Power BI
+## 🔍 Résultats
 
-👉 [Clique ici pour télécharger le fichier `.pbix`](./Project_price_houses.pbix)
+La première page montre une vue d’ensemble des propriétés : leur état, proximité de l’eau, rénovation, nombre de chambres/étages, et l’évolution des prix. Fait notable : les propriétés rénovées coûtent en moyenne moins cher.
+
+La seconde page présente leur répartition géographique. La Californie, en particulier Los Angeles, concentre le plus de biens en très bon état, ce qui en fait une zone stratégique à cibler pour de futurs investissements.
 
 ## 💼 Réalisé par
 
